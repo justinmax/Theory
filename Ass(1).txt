@@ -1,0 +1,9 @@
+ Real-world objects contain _state__ and _behaviour__.
+- A software object's state is stored in _fields__.
+- A software object's behavior is exposed through ___.
+- Hiding internal data from the outside world, and accessing it only through publicly exposed methods is known as data _polymorphism__.
+- A blueprint for a software object is called a _class__.
+- Common behavior can be defined in a _parent class__ and inherited into a _child class__ using the _extends__ keyword.
+- A collection of methods with no implementation is called an _interfaces__.
+- A namespace that organizes classes and interfaces by functionality is called a _packages__.
+- The term API stands for _Application programming interface__?

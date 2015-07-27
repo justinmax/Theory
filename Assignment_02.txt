@@ -1,0 +1,29 @@
+Questions:
+1. What is an Algorithm?
+
+Ans: step by step procedure to slove a given task
+2. What do you understand by O notations.
+
+Ans: it is the time used to measure the time taken to execute the program
+3. What are NP hard and NP complete problems.
+
+Ans: NP hard is the time taken by the problem to compelete in the expected time.
+Np complete is when the problem gets completed in time before the expected time.
+
+4. Give some popular scenarios where time complexity is the key for chosing an algorigthm.
+
+Ans:Depending upon requirement you may want to use any of these.
+
+Merge Sort
+Quick Sort
+Bucket Sort
+Heap Sort
+Counting Sort
+More importantly one should know when and where to use them. Some examples where you can find direct application of sorting techniques include:
+
+Sorting by price, popularity etc in e-commerce websites
+Sorting by score in HackerEarth contest leaderboard
+
+5. How do we calculate time complexity of a program.
+Ans:
+we calculate the time complexity by the number of iterations 
