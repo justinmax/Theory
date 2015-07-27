@@ -26,4 +26,4 @@ Sorting by score in HackerEarth contest leaderboard
 
 5. How do we calculate time complexity of a program.
 Ans:
-we calculate the time complexity by the number of iterations 
+we calculate the time complexity by the number of iterations .....
